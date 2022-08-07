@@ -1,0 +1,77 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: rgba(245, 245, 220, 0.4);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: olive;
+}
+
+h2 {
+    font-style: oblique;
+    color: olive;
+    background-color: rgba(245, 245, 220, 0.4);
+}
+
+h5 {
+    text-align: right;
+}
+
+.goback {
+    color: darkturquoise;
+    font-style: italic;
+}
+
+
+.list {
+    text-align: start;
+    font-size: 25px;
+    background-color: beige;
+}
+
+.list .curry {
+    color: orange;
+}
+
+.list .ratatouille {
+    color: coral;
+}
+
+.list .chicken-nuggets {
+    color: orangered;
+}
+
+img {
+    height: auto;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#curry {
+    color: orange;
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.4);
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#ratatouille {
+    color: coral;
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.4);
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#chicken-nuggets {
+    color: orangered;
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.4);
+    font-size: 40px;
+    font-weight: bolder;
+}
